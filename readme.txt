@@ -5,3 +5,5 @@ Git tracks changes of files.
 Remote test
 
 Creating a new line in dec branch.
+
+Creating a new branch is quick & simple.
